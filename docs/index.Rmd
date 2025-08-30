@@ -1,0 +1,31 @@
+---
+title: "About Me"
+author: "Haoran (Tommy) Fang"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+Hi, I'm Haoran (Tommy) Fang, a data science major with a business minor. I enjoy going to the gym, cooking, and writing short stories. I’m also into watching a wide range of shows and anime, and I have a personal interest in heels. I'm a resilient and creative learner who enjoys exploring new ideas and perspectives. Whether it's through data or storytelling, I’m always looking for ways to grow and express myself.
+
+You can find my Github [here](https://github.com/tominister). <br>
+![](C:/Users/haora/SDS375-about-me/docs/selfie.png)
+
+
+## Favorite Books
+- Where the Red Fern Grows
+- Holes  
+- Spaced Out
+- The Giver
+
+## Page Build Time
+```{r, echo=F}
+Sys.time()
+```
+
+
+
